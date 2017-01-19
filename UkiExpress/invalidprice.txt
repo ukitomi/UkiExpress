@@ -1,0 +1,2 @@
+Burger|3.5
+French Fries|2ac

@@ -1,0 +1,7 @@
+Double Cheese Burger|3.59
+Small French Fries|2.00
+Medium French Fries|2.89
+Large French Fries|3.59
+Coke|1.00
+Vanilla Ice Cream|1.59
+Apple Pie|1.64
