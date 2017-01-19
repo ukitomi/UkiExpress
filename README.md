@@ -14,3 +14,10 @@ Click "confirm" button after the credit card number is entered.
 If the credit card is not valid, the order would not be process and the whole order has to restart all over.
 
 There are different test cases included within the folder.
+1) Menu.txt: Contain the menu, with name and price separated by a bar |.
+2) invalidprice.txt: The price in the menu contains invalid characters.
+3) noinput.txt: Empty text file.
+4) noname.txt: The menu does not contain a name, only price.
+5) noprice.txt: One of the item in the menu does not contain price.
+
+Please do citation if you are taking any of the code from my GitHub. Thank you!
